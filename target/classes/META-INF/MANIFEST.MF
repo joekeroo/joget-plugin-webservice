@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1750925123437
+Bnd-LastModified: 1750927817548
 Build-Jdk-Spec: 11
 Bundle-Activator: com.personal.plugin.Activator
 Bundle-ClassPath: .,dependency/javaee-api-8.0.jar,dependency/javax.mail-
